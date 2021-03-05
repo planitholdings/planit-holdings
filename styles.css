@@ -1,0 +1,49 @@
+.background {
+  height: 100%;
+  background-color: #000033;
+}
+.header {
+  background-color: none;
+  width: 100%;
+}
+.t1 {
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 5.5vh;
+  font-family: 'Baskerville Old Face', serif;
+}
+.t2 {
+  color: #FFFFFF;
+  font-size: 3vh;
+  text-align: center;
+  font-family: 'Baskerville Old Face', sans-serif;
+}
+.t3 {
+  color: #FFFFFF;
+  font-size: 4vh;
+  text-align: center;
+  top: 90%;
+  font-family: 'Baskerville Old Face', sans-serif;
+}
+.contact {
+  position: absolute;
+  left: 375px;
+  width: 40%;
+  text-align: center;
+  padding: 10px;
+  color: #FFFFFF;
+  font-family: 'Baskerville Old Face', sans-serif;
+  border: 2px solid rgb(230, 230, 230,0.7);
+  font-size: 3vh;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2vw;
+  padding-top: none;
+  font-size: 0.9vw;
+  color: #FFFFFF;
+  font-family: 'Baskerville Old Face', sans-serif;
+}
