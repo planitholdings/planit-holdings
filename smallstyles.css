@@ -17,14 +17,14 @@
   color: #FFFFFF;
   font-size: 3vh;
   text-align: center;
-  font-family: 'Baskerville Old Face', sans-serif;
+  font-family: 'Baskerville Old Face', serif;
 }
 .t3 {
   color: #FFFFFF;
   font-size: 4vh;
   text-align: center;
   top: 90%;
-  font-family: 'Baskerville Old Face', sans-serif;
+  font-family: 'Baskerville Old Face', serif;
 }
 .contact {
   position: absolute;
@@ -33,7 +33,7 @@
   text-align: center;
   padding: 10px;
   color: #FFFFFF;
-  font-family: 'Baskerville Old Face', sans-serif;
+  font-family: 'Baskerville Old Face', serif;
   border: 2px solid rgb(230, 230, 230,0.7);
   font-size: 3vh;
 }
@@ -46,5 +46,5 @@
   padding-top: none;
   font-size: 2vw;
   color: #FFFFFF;
-  font-family: 'Baskerville Old Face', sans-serif;
+  font-family: 'Baskerville Old Face', serif;
 }
